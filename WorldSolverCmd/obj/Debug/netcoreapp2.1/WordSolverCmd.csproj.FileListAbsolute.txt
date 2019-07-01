@@ -1,0 +1,11 @@
+C:\Users\fsote\source\repos\WorldSolverCmd\WorldSolverCmd\bin\Debug\netcoreapp2.1\WordSolverCmd.deps.json
+C:\Users\fsote\source\repos\WorldSolverCmd\WorldSolverCmd\bin\Debug\netcoreapp2.1\WordSolverCmd.runtimeconfig.json
+C:\Users\fsote\source\repos\WorldSolverCmd\WorldSolverCmd\bin\Debug\netcoreapp2.1\WordSolverCmd.runtimeconfig.dev.json
+C:\Users\fsote\source\repos\WorldSolverCmd\WorldSolverCmd\bin\Debug\netcoreapp2.1\WordSolverCmd.dll
+C:\Users\fsote\source\repos\WorldSolverCmd\WorldSolverCmd\bin\Debug\netcoreapp2.1\WordSolverCmd.pdb
+C:\Users\fsote\source\repos\WorldSolverCmd\WorldSolverCmd\obj\Debug\netcoreapp2.1\WordSolverCmd.csproj.CoreCompileInputs.cache
+C:\Users\fsote\source\repos\WorldSolverCmd\WorldSolverCmd\obj\Debug\netcoreapp2.1\WordSolverCmd.AssemblyInfoInputs.cache
+C:\Users\fsote\source\repos\WorldSolverCmd\WorldSolverCmd\obj\Debug\netcoreapp2.1\WordSolverCmd.AssemblyInfo.cs
+C:\Users\fsote\source\repos\WorldSolverCmd\WorldSolverCmd\obj\Debug\netcoreapp2.1\WordSolverCmd.dll
+C:\Users\fsote\source\repos\WorldSolverCmd\WorldSolverCmd\obj\Debug\netcoreapp2.1\WordSolverCmd.pdb
+C:\Users\fsote\source\repos\WorldSolverCmd\WorldSolverCmd\obj\Debug\netcoreapp2.1\WordSolverCmd.csprojAssemblyReference.cache

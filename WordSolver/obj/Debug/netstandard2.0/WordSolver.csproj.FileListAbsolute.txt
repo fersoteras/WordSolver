@@ -1,0 +1,17 @@
+C:\Users\fsote\source\repos\WorldSolverCmd\WordSolver\bin\Debug\netstandard2.0\WordSolver.deps.json
+C:\Users\fsote\source\repos\WorldSolverCmd\WordSolver\bin\Debug\netstandard2.0\WordSolver.dll
+C:\Users\fsote\source\repos\WorldSolverCmd\WordSolver\bin\Debug\netstandard2.0\WordSolver.pdb
+C:\Users\fsote\source\repos\WorldSolverCmd\WordSolver\obj\Debug\netstandard2.0\WordSolver.csproj.CoreCompileInputs.cache
+C:\Users\fsote\source\repos\WorldSolverCmd\WordSolver\obj\Debug\netstandard2.0\WordSolver.AssemblyInfoInputs.cache
+C:\Users\fsote\source\repos\WorldSolverCmd\WordSolver\obj\Debug\netstandard2.0\WordSolver.AssemblyInfo.cs
+C:\Users\fsote\source\repos\WorldSolverCmd\WordSolver\obj\Debug\netstandard2.0\WordSolver.dll
+C:\Users\fsote\source\repos\WorldSolverCmd\WordSolver\obj\Debug\netstandard2.0\WordSolver.pdb
+C:\Users\fsote\source\repos\QuWordSolver\WordSolver\bin\Debug\netstandard2.0\WordSolver.deps.json
+C:\Users\fsote\source\repos\QuWordSolver\WordSolver\bin\Debug\netstandard2.0\WordSolver.dll
+C:\Users\fsote\source\repos\QuWordSolver\WordSolver\bin\Debug\netstandard2.0\WordSolver.pdb
+C:\Users\fsote\source\repos\QuWordSolver\WordSolver\obj\Debug\netstandard2.0\WordSolver.csprojAssemblyReference.cache
+C:\Users\fsote\source\repos\QuWordSolver\WordSolver\obj\Debug\netstandard2.0\WordSolver.csproj.CoreCompileInputs.cache
+C:\Users\fsote\source\repos\QuWordSolver\WordSolver\obj\Debug\netstandard2.0\WordSolver.AssemblyInfoInputs.cache
+C:\Users\fsote\source\repos\QuWordSolver\WordSolver\obj\Debug\netstandard2.0\WordSolver.AssemblyInfo.cs
+C:\Users\fsote\source\repos\QuWordSolver\WordSolver\obj\Debug\netstandard2.0\WordSolver.dll
+C:\Users\fsote\source\repos\QuWordSolver\WordSolver\obj\Debug\netstandard2.0\WordSolver.pdb
